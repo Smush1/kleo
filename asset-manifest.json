@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kleo/static/css/main.9dcb1cb9.css",
-    "main.js": "/kleo/static/js/main.c8d24b39.js",
+    "main.js": "/kleo/static/js/main.e01a4920.js",
     "static/js/453.9727a3b4.chunk.js": "/kleo/static/js/453.9727a3b4.chunk.js",
     "static/media/category7-img2.png": "/kleo/static/media/category7-img2.10925081ff1b87128dc5.png",
     "static/media/category1-img2.png": "/kleo/static/media/category1-img2.5c1de73616711a38ccac.png",
@@ -39,6 +39,7 @@
     "static/media/form-button.svg": "/kleo/static/media/form-button.17a24eedc9e7d62c22fe44415b843fe4.svg",
     "static/media/featured-img-4.webp": "/kleo/static/media/featured-img-4.d25e51975a6dbb690b88.webp",
     "static/media/featured-img-12.webp": "/kleo/static/media/featured-img-12.b862fceb88de88c9edca.webp",
+    "static/media/Indusmela.webp": "/kleo/static/media/Indusmela.ede019b33a6d17a8996b.webp",
     "static/media/Amazon.webp": "/kleo/static/media/Amazon.98aaa877c137be3103bf.webp",
     "static/media/slick.svg": "/kleo/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/kleo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -49,11 +50,11 @@
     "static/media/phone.svg": "/kleo/static/media/phone.95276cf8d5fc640963a394b1b3018781.svg",
     "static/media/email.svg": "/kleo/static/media/email.f8102bf773ad36d9c063bda73287fb08.svg",
     "main.9dcb1cb9.css.map": "/kleo/static/css/main.9dcb1cb9.css.map",
-    "main.c8d24b39.js.map": "/kleo/static/js/main.c8d24b39.js.map",
+    "main.e01a4920.js.map": "/kleo/static/js/main.e01a4920.js.map",
     "453.9727a3b4.chunk.js.map": "/kleo/static/js/453.9727a3b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dcb1cb9.css",
-    "static/js/main.c8d24b39.js"
+    "static/js/main.e01a4920.js"
   ]
 }
