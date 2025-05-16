@@ -1,25 +1,25 @@
-import category1img1 from "../images/category1-img1.webp"
+import category1img1 from "../images/category1-img1.png"
 import category1img2 from "../images/category1-img2.png"
 
-import category2img1 from "../images/category2-img1.webp"
+import category2img1 from "../images/category2-img1.png"
 import category2img2 from "../images/category2-img2.png"
 
-import category3img1 from "../images/category3-img1.webp"
+import category3img1 from "../images/category3-img1.png"
 import category3img2 from "../images/category3-img2.png"
 
-import category4img1 from "../images/category4-img1.webp"
+import category4img1 from "../images/category4-img1.png"
 import category4img2 from "../images/category4-img2.png"
 
 import category5img1 from "../images/category5-img1.png"
 import category5img2 from "../images/category5-img2.png"
 
-import category6img1 from "../images/category6-img1.webp"
+import category6img1 from "../images/category6-img1.png"
 import category6img2 from "../images/category6-img2.png"
 
-import category7img1 from "../images/category7-img1.webp"
+import category7img1 from "../images/category7-img1.png"
 import category7img2 from "../images/category7-img2.png"
 
-import category8img1 from "../images/category8-img1.webp"
+import category8img1 from "../images/category8-img1.png"
 import category8img2 from "../images/category8-img2.png"
 
 
@@ -33,68 +33,68 @@ import category8img2 from "../images/category8-img2.png"
 const coreCategories = [ 
     {
     "id": 1,
-    "categoryTitle": "Tournament Chess Boards ",
+    "categoryTitle": "Soap Dispenser",
     "categoryImage": category1img1,
     "dataTarget": "#toysgames",
-    "altText" : "Toys & Games",
-    "viewMoreLink": "https://indusmela.in/collections/tournament-chess"
+    "altText" : "Soap Dispenser",
+    "viewMoreLink": "https://indusmela.in/collections/soap-dispenser?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 2,
-    "categoryTitle": "Wooden Chess Boards",
+    "categoryTitle": "Soap Dish",
     "categoryImage": category2img1,
     "dataTarget": "#homedecor",
-    "altText" : "Home Decor",
-    "viewMoreLink": "https://indusmela.in/collections/wooden-chess"
+    "altText" : "Soap Dish",
+    "viewMoreLink": "https://indusmela.in/collections/soap-dish?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 3,
-    "categoryTitle": "Marble Chess Boards",
+    "categoryTitle": "Bathroom Sets",
     "categoryImage": category3img1,
     "dataTarget": "#homeorganiser",
-    "altText" : "Home Organiser",
-    "viewMoreLink": "https://indusmela.in/collections/marble-chess"
+    "altText" : "Bathroom Sets",
+    "viewMoreLink": "https://indusmela.in/collections/bathroom-set?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     
     },
     {
     "id": 4,
-    "categoryTitle": "Chess Pieces",
+    "categoryTitle": "Mortar & Pestle",
     "categoryImage": category4img1,
     "dataTarget": "#artscraft",
-    "altText" : "Arts & Craft",
-    "viewMoreLink": "https://indusmela.in/collections/chess-pieces"
+    "altText" : "Mortar & Pestle",
+    "viewMoreLink": "https://indusmela.in/collections/mortar-pestle?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 5,
-    "categoryTitle": "Premium Chess Sets",
+    "categoryTitle": "Chopping Boards",
     "categoryImage": category5img1,
     "dataTarget": "#kitchenbathroom",
-    "altText" : "Kitchen & Bathroom",
-    "viewMoreLink": "https://indusmela.in/collections/premium-chess"
+    "altText" : "Chopping Boards",
+    "viewMoreLink": "https://indusmela.in/collections/chopping-board?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 6,
-    "categoryTitle": "Puzzles and 3D DIY Kits",
+    "categoryTitle": "Kitchen Accessories",
     "categoryImage": category6img1,
     "dataTarget": "#religiousitems",
-    "altText" : "Religious Item",
-    "viewMoreLink": "https://indusmela.in/collections/puzzles-construction-toys"
+    "altText" : "Kitchen Accessories",
+    "viewMoreLink": "https://indusmela.in/collections/kitchen-accessories?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 7,
-    "categoryTitle": "Sports Accessories",
+    "categoryTitle": "Coasters & Platters",
     "categoryImage": category7img1,
     "dataTarget": "#sportsequipment",
-    "altText" : "Sports and Equipments",
-    "viewMoreLink": "https://indusmela.in/collections/sports"
+    "altText" : "Coasters & Platters",
+    "viewMoreLink": "https://indusmela.in/collections/coasters?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {
     "id": 8,
-    "categoryTitle": `Pet Accessories`,
+    "categoryTitle": `Marble Shivling`,
     "categoryImage": category8img1,
     "dataTarget": "#statuessculptures",
-    "altText" : "Statues & Sculptures",
-    "viewMoreLink": "https://indusmela.in/collections/pet-toys"
+    "altText" : "Marble Shivling",
+    "viewMoreLink": "https://indusmela.in/collections/kleo?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Hindu+God+Idols"
     }
 ]
 
@@ -129,7 +129,7 @@ const categoryRelatedData = [
         "link3_title":"",
         "link3_Image": "",
 
-        "viewMoreLink": "https://indusmela.in/collections/tournament-chess"
+        "viewMoreLink": "https://indusmela.in/collections/soap-dispenser?sort_by=best-selling&filter.p.vendor=KLEO&filter.v.price.gte=&filter.v.price.lte="
     },
     {   
         "id": 2,

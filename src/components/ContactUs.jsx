@@ -49,7 +49,7 @@ function ContactUs() {
                 <p>Whether you have partnership inquiries or general questions, simply fill out the form below, and our team will get back to you shortly.</p>
 
 
-                <form action="" method="post" className='container'>
+                <form action="https://formsubmit.co/sumesh.kumar@mediax.co.in" method="post" className='container'>
                   <div className="row"> 
                     <div className=" d-inline-block col-6 ps-0">
                         <label htmlFor="name">Your Name*</label>
@@ -57,11 +57,11 @@ function ContactUs() {
                     </div>
                     <div className=" d-inline-block col-6 pe-0">
                         <label htmlFor="phone">Your Phone Number*</label>
-                        <input id="phone" type="text" name="phone" className="d-block contact-us-field w-100" pattern='[1-9]{1}[0-9]{9}' placeholder='9999999999' required />
+                        <input id="phone" type="number" name="phone" className="d-block contact-us-field w-100" pattern='[1-9]{1}[0-9]{9}' placeholder='9999999999' required />
                     </div>
                     <div className="col-12 field p-0">
                         <label htmlFor="email">Your Email*</label>
-                        <input id="email" type="text" name="email" className="d-block contact-us-field w-100" required placeholder="company@xyz.com" />
+                        <input id="email" type="email" name="email" className="d-block contact-us-field w-100" required placeholder="company@xyz.com" />
                     </div>
                     <div className="col-12 field p-0">
                         <label htmlFor="message">Write Us</label>   
@@ -70,6 +70,7 @@ function ContactUs() {
                     <div className='col-12 field p-0'>
                         <input type="submit" className='btn btn-primary submit-btn col-12 mt-3 text-uppercase' />
                     </div>
+                    <input type="hidden" name="_cc" value="another@email.com" /> 
                   </div> 
                 </form>
                 

@@ -1,5 +1,5 @@
-import desktopBanner from './images/stonkraft-desk-banner.webp'
-import mobileBanner from './images/stonkraft-mob-banner.webp'
+import desktopBanner from './images/desktop-banner-kleo.webp'
+import mobileBanner from './images/mobile-banner-kleo.webp'
 import Header from "./components/Header";
 import HeroBanner from "./components/HeroBanner";
 import ContactBulkForm from "./components/ContactBulkForm";
