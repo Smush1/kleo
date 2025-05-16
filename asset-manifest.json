@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kleo/static/css/main.7fcc9edf.css",
-    "main.js": "/kleo/static/js/main.fc581f3e.js",
+    "main.js": "/kleo/static/js/main.362839de.js",
     "static/js/453.9727a3b4.chunk.js": "/kleo/static/js/453.9727a3b4.chunk.js",
     "static/media/category7-img2.png": "/kleo/static/media/category7-img2.10925081ff1b87128dc5.png",
     "static/media/category1-img2.png": "/kleo/static/media/category1-img2.5c1de73616711a38ccac.png",
@@ -50,11 +50,11 @@
     "static/media/phone.svg": "/kleo/static/media/phone.95276cf8d5fc640963a394b1b3018781.svg",
     "static/media/email.svg": "/kleo/static/media/email.f8102bf773ad36d9c063bda73287fb08.svg",
     "main.7fcc9edf.css.map": "/kleo/static/css/main.7fcc9edf.css.map",
-    "main.fc581f3e.js.map": "/kleo/static/js/main.fc581f3e.js.map",
+    "main.362839de.js.map": "/kleo/static/js/main.362839de.js.map",
     "453.9727a3b4.chunk.js.map": "/kleo/static/js/453.9727a3b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fcc9edf.css",
-    "static/js/main.fc581f3e.js"
+    "static/js/main.362839de.js"
   ]
 }
