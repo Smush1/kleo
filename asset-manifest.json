@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kleo/static/css/main.e435bbd4.css",
-    "main.js": "/kleo/static/js/main.daa07d63.js",
+    "main.js": "/kleo/static/js/main.4eece471.js",
     "static/js/453.9727a3b4.chunk.js": "/kleo/static/js/453.9727a3b4.chunk.js",
     "static/media/category7-img2.png": "/kleo/static/media/category7-img2.10925081ff1b87128dc5.png",
     "static/media/category1-img2.png": "/kleo/static/media/category1-img2.5c1de73616711a38ccac.png",
@@ -29,7 +29,6 @@
     "static/media/featured-img-10.webp": "/kleo/static/media/featured-img-10.76f40f747a2f5123dc8c.webp",
     "static/media/featured-img-6.webp": "/kleo/static/media/featured-img-6.75d3a242e695eb7c55a6.webp",
     "static/media/featured-img-2.webp": "/kleo/static/media/featured-img-2.a0f52de1d048f73aba36.webp",
-    "static/media/category8-img1.png": "/kleo/static/media/category8-img1.4e0b89b3df58a55c490e.png",
     "static/media/category4-img1.png": "/kleo/static/media/category4-img1.4d77fc63fa2866214e64.png",
     "static/media/category1-img1.png": "/kleo/static/media/category1-img1.78e7010dd710799ab1b7.png",
     "static/media/category2-img1.png": "/kleo/static/media/category2-img1.b9285099584e6ce76b8c.png",
@@ -40,6 +39,7 @@
     "static/media/featured-img-4.webp": "/kleo/static/media/featured-img-4.d25e51975a6dbb690b88.webp",
     "static/media/featured-img-12.webp": "/kleo/static/media/featured-img-12.b862fceb88de88c9edca.webp",
     "static/media/Indusmela.webp": "/kleo/static/media/Indusmela.ede019b33a6d17a8996b.webp",
+    "static/media/category8-img1.webp": "/kleo/static/media/category8-img1.5f4b56b54a045b17e5c2.webp",
     "static/media/Amazon.webp": "/kleo/static/media/Amazon.98aaa877c137be3103bf.webp",
     "index.html": "/kleo/index.html",
     "static/media/slick.svg": "/kleo/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -50,11 +50,11 @@
     "static/media/phone.svg": "/kleo/static/media/phone.95276cf8d5fc640963a394b1b3018781.svg",
     "static/media/email.svg": "/kleo/static/media/email.f8102bf773ad36d9c063bda73287fb08.svg",
     "main.e435bbd4.css.map": "/kleo/static/css/main.e435bbd4.css.map",
-    "main.daa07d63.js.map": "/kleo/static/js/main.daa07d63.js.map",
+    "main.4eece471.js.map": "/kleo/static/js/main.4eece471.js.map",
     "453.9727a3b4.chunk.js.map": "/kleo/static/js/453.9727a3b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e435bbd4.css",
-    "static/js/main.daa07d63.js"
+    "static/js/main.4eece471.js"
   ]
 }
