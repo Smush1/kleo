@@ -13,7 +13,8 @@ function ContactBulkForm() {
         </div>
         <div className="col-lg-5 bulk-contact-form-container mx-auto col-md-12">
           <h4 className="bulk-contact-form-heading">Please share your details and we will be in touch with you</h4>
-          <form action="https://formsubmit.co/sumesh.kumar@mediax.co.in" method="post">
+          <form action="https://formsubmit.co/istonkraft@gmail.com" method="post">
+          <input type="hidden" name="_subject" value="KLEO" />
             <label htmlFor="name" className="w-100">Name*</label>
             <input name="name" id="name" className="w-100" type="text" required placeholder="John Doe" />
 
@@ -29,7 +30,7 @@ function ContactBulkForm() {
             <label htmlFor="message" className="w-100" >Tell us what you're looking for</label>
             <textarea name="message" id="message" className="w-100" placeholder="Your message"></textarea>
 
-            <input type="hidden" name="_cc" value="another@email.com"/>
+            <input type="hidden" name="_cc" value="sadaf.khan@mediax.co.in"/>
 
             <input className="btn btn-primary submit-btn px-5 w-100 text-uppercase" type="SUBMIT"  />
           </form>

@@ -19,7 +19,7 @@ import category6img2 from "../images/category6-img2.png"
 import category7img1 from "../images/category7-img1.png"
 import category7img2 from "../images/category7-img2.png"
 
-import category8img1 from "../images/category8-img1.png"
+import category8img1 from "../images/category8-img1.webp"
 import category8img2 from "../images/category8-img2.png"
 
 

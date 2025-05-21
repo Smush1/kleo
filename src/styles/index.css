@@ -115,7 +115,7 @@ body{
   }
 
  .orange-bg{
-    background-color: var(--GREEN-COLOR);
+    background-color: var(--GOLDEN-COLOR);
   }
 
 
@@ -138,7 +138,7 @@ body{
 }
 
 .form-icon-anchor{
-  margin-left: clamp(0.3rem, 5vw, 11rem);
+  margin-left: clamp(0.3rem, 15vw, 11rem);
 }
 
 
@@ -370,24 +370,22 @@ body{
 
   .carousel-caption {
       width: 100%;
-      top: 4%;
+      top: 5.5%;
       text-align: center;
       left: 51.25%;
       transform: translateX(-50%);
       z-index: 10;
-      padding-right: 10px;
+      padding: 1rem;
   }
 
   .carousel-caption h1 {
       font-size: 1.4rem;
-      padding-bottom: 0rem !important;
-      margin-bottom: 12px;
+      margin-bottom: 20px;
   }
 
   .carousel-caption p {
-      font-size: 0.85rem;
-      padding: 0 10px 0.5rem 10px!important;
-      margin-bottom: 12px !important;
+      padding: 0 10px 0.75rem 10px!important;
+      margin-bottom: 20px !important;
       line-height: 1.25rem;
 
 
@@ -400,7 +398,6 @@ body{
   .btn-custom {
       background-color: var(--GREEN-COLOR);
       padding: 8px 10px;
-      font-size: 0.8rem;
       color: var(--WHITE-CLR);
       border: none;
   }

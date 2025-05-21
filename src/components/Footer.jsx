@@ -1,4 +1,4 @@
-import footerLogo from '../images/KLEO_PNG_Logo 1.png'
+import footerLogo from '../images/KLEO_logo.png'
 
 function Footer() {
   return (

@@ -1,4 +1,4 @@
-import logo from '../images/KLEO_PNG_Logo 1.png'
+import logo from '../images/KLEO_logo.png'
 import formSvg from '../images/form-button.svg'
 
 function Header() {
@@ -30,7 +30,7 @@ function Header() {
 
           {/*   <!-- Centered Logo --> */}
             <a className="navbar-brand mx-auto" href="#" rel="noreferrer" aria-label='Logo'>
-                <img src={logo} alt="StonKraft" className="logo-img" fetchPriority='high' /> 
+                <img src={logo} alt="KLEO" className="logo-img" fetchPriority='high' /> 
              </a>
 
         {/*     <!-- Right-aligned Button --> */}

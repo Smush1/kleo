@@ -80,13 +80,13 @@ const FeaturedItemsImage =[
     {
         "id" : 6,
         "imageLink" : featuredImage6,
-        "altText": `KLEO Kansa Dinner Set–Bronze Thali Set of 6 | 1 Plate, 2 Bowls, 1 Glass, 1 Spoon & 1 Sweet Dish Plate | Bronze Utensils Set for Authentic Indian Dining Colletion, Metal Dinnerware`,
+        "altText": `KLEO Wooden Dinner Set Decorative Plates Dinner Thali Set - Plate Glass 2 Bowls and Spoon - Wood - 12" inch Dia. - Brown`,
         "desc": "",
         "sku":"B0F6NRNWN7",
         "type": "",
-        "productLink": "https://indusmela.in/products/kleo-kansa-dinner-set-bronze-thali-set-of-6-1-plate-2-bowls-1-glass-1-spoon-1-sweet-dish-plate-bronze-utensils-set-for-authentic-indian-dining-colletion-dinnerware?_pos=1&_sid=c20172d53&_ss=r",
+        "productLink": "https://indusmela.in/products/kleo-wooden-dinner-set-decorative-plates-dinner-thali-set-plate-glass-2-bowls-and-spoon-wood-12-inch-dia-brown?variant=45188610556073",
         "modalId": "featuredImg6",
-        "price": "709.00",
+        "price": "648.00",
         "salePrice": ""
     },
     {

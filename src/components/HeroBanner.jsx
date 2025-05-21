@@ -39,9 +39,7 @@ function HeroBanner({desktopBanner, mobileBanner}) {
                               desktopBanner +  " 1440w " } />              
                           <div className="carousel-caption">
                               <h1 className="pb-2">Proudly Retailing on <br/> IndusMela & Amazon</h1>
-                              <p className="pb-2">Explore our handcrafted collection, trusted by customers across the globe. Every product is
-                                  handmade, designed by us, and crafted under our supervision. We proudly retail globally
-                                  on <a href="https://www.indusmela.com" target="_blank" rel="noreferrer"  className="hero-banner-link">Indusmela.com</a>, <a href="https://www.indusmela.in" target="_blank" rel="noreferrer"  className="hero-banner-link">Indusmela.in</a> and <a href="https://www.amazon.in/stores/StonKraft/page/B4E8B06D-B977-4B7A-BCC6-EC923DB769E1" target="_blank" rel="noreferrer"  className="hero-banner-link">Amazon</a> ensuring premium quality, fair pricing, and reliable delivery. Our mission is to bring the warmth of Indian artistry into homes worldwide.</p>
+                              <p className="pb-2">Our curated collection of home décor and bathroom accessories is made to elevate everyday spaces with style. Each piece is designed in-house, handmade with care, and retailed globally via <a href="https://www.indusmela.com" target="_blank" rel="noreferrer"  className="hero-banner-link">Indusmela.com</a>, <a href="https://www.indusmela.in" target="_blank" rel="noreferrer"  className="hero-banner-link">Indusmela.in </a>, and <a href="https://www.amazon.in/stores/StonKraft/page/B4E8B06D-B977-4B7A-BCC6-EC923DB769E1" target="_blank" rel="noreferrer"  className="hero-banner-link">Amazon, </a> ensuring trusted quality, fair pricing, and smooth delivery. Bring the charm of Indian craftsmanship into your home.</p>
                               <a href="#featured-products" className="btn btn-custom" aria-label='View Products' >VIEW PRODUCTS</a>
                           </div>
                       </div>
